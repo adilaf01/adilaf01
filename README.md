@@ -3,6 +3,7 @@
 I'm on a quest to unravel the mysteries of technology, creativity, and the art of storytelling, one line of code, one brushstroke, and one frame at a time. If there's a word that defines me, it's **curious**. I'm that student who's never done learning, that creative soul who's always wondering "why" and "how", and that filmmaker who believes every frame has a story to tell.
 
 ## About Me
+https://github.com/19856645/who-am-I/assets/140569261/c53ffe81-ef37-4bde-ad31-042d0bf0e614
 
 - 🎓 Lifelong Learner, forever in pursuit of knowledge
 - 🎬 Video Editing and Filmmaking Enthusiast, bringing stories to life
