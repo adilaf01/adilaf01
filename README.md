@@ -31,5 +31,5 @@ https://github.com/19856645/who-am-I/assets/140569261/c53ffe81-ef37-4bde-ad31-04
 Feel free to reach out if you're as passionate about creativity, tech, filmmaking, and making the world a better place as I am. Let's collaborate and turn dreams into captivating visuals and realities!
 
 Connect with me:
-📩 Email: [your.email@example.com](mailto:your.email@example.com)\
-🌐 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)\
+📩 Email: [your.email@example.com](afzaaladil500@yahoo.com.au)\
+🌐 Portfolio: [www.yourportfolio.com](https://www.who-is-adilafzaal.com)\
