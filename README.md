@@ -16,7 +16,7 @@ class MySkillset:
     def __init__(self):
         self.languages = ["HTML", "CSS", "JavaScript", "Python"]
         self.design_tools = ["UX/UI", "Aesthetics"]
-        self.video_editing_tools = ["Premiere Pro", "Final Cut Pro"]
+        self.video_editing_tools = ["Premiere Pro", "Davinci Resolve", "AE", "Blender"]
         self.filmmaking_skills = ["Storyboarding", "Cinematography"]
 ```
 ## Play to View Some Cool Things I've Made
