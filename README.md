@@ -39,4 +39,3 @@ Feel free to reach out if you're as passionate about creativity, tech, filmmakin
 Connect with me:
 📩 Email: [your.email@example.com](mailto:your.email@example.com)\
 🌐 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)\
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
